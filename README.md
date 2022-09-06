@@ -1,2 +1,1 @@
-# RVE_2D_gen
-generate 2d voxel mesh for fiber-reinforced composites
+This file is to generate 2D fiber composites with specified volume fraction
